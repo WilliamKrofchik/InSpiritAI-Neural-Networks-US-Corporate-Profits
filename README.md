@@ -23,7 +23,14 @@ Below is the organization structure:
 
 ## Results
 
-![Alt Text](https://github.com/WilliamKrofchik/InSpiritAI-Neural-Networks-US-Corporate-Profits/results/Neural Network Results.jpg)
+### Regular Neural Network Model Results
+97.52% Accuracy
 
+![Alt Text](https://github.com/WilliamKrofchik/InSpiritAI-Neural-Networks-US-Corporate-Profits/blob/main/results/NeuralNetworkResults.jpg)
+
+### LSTM Model Results
+50.67% Accuracy
+
+![Alt Text](https://github.com/WilliamKrofchik/InSpiritAI-Neural-Networks-US-Corporate-Profits/blob/main/results/LSTMResults.jpg)
 
 
