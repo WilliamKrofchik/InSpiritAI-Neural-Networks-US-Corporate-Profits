@@ -21,3 +21,9 @@ This repository contains all models, datasets, and results from the project. For
 
 Below is the organization structure:
 
+## Results
+
+![Alt Text](https://github.com/WilliamKrofchik/InSpiritAI-Neural-Networks-US-Corporate-Profits/results/Neural Network Results.jpg)
+
+
+
