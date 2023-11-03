@@ -29,6 +29,8 @@ Below is the organization structure:
 
 ## Results
 
+Our Regular Neural Network Model achieved 97.52% Accuracy Score and performed much better than our LSTM Model.
+
 ### Regular Neural Network Model Results
 <b>97.52% Accuracy Score</b>
 
