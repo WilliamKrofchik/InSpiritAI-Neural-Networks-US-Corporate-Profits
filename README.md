@@ -21,15 +21,21 @@ This repository contains all models, datasets, and results from the project. For
 
 Below is the organization structure:
 
+- `code/` folder containing all python code used in the project
+  - Contains the single Python code file: `using_neural_networks_to_predict_u_s_corporate_profits_on_electronic_goods_william_krofchik.py`
+  - Along with the associated Google Collab Notebook file: `Using_Neural_Networks_to_Predict_U_S_Corporate_Profits_on_Electronic_Goods_William_Krofchik.ipynb`
+- `datasets/` folder containing all Excel datasets used in the project
+- `results/` folder containing the final results graphs (JPG)
+
 ## Results
 
 ### Regular Neural Network Model Results
-97.52% Accuracy
+<b>97.52% Accuracy Score</b>
 
 ![Alt Text](https://github.com/WilliamKrofchik/InSpiritAI-Neural-Networks-US-Corporate-Profits/blob/main/results/NeuralNetworkResults.jpg)
 
 ### LSTM Model Results
-50.67% Accuracy
+<b>50.67% Accuracy Score </b>
 
 ![Alt Text](https://github.com/WilliamKrofchik/InSpiritAI-Neural-Networks-US-Corporate-Profits/blob/main/results/LSTMResults.jpg)
 
