@@ -3,7 +3,7 @@
 ## Using Neural Networks to Predict U.S. Corporate Profits on Electronic Goods, William Krofchik, November 3, 2023
 
 ## Project
-This project was completed  for the 2023 InSpritAI Scholars Program
+This project was completed  for the 2023 InSpritAI Scholars Program.
 * https://www.inspiritai.com
 
 I collaborated with Ana Sofia Munoz Valadez who was my mentor for this project.
