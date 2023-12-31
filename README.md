@@ -13,7 +13,7 @@ I collaborated with Ana Sofia Munoz Valadez who was my mentor for this project.
 The 2018 trade war between the United States and China, COVID-19, supply chain disruptions, component costs, and post-COVID consumer behavior have all created negative impacts on U.S. corporate profits on electronic goods. The goal of this project is to train two neural network AI models: a Multi-Layer Perceptron (MLP) neural network and a Long Short-Term Memory (LSTM) neural network, to predict U.S. corporate profits on electronic goods into the future. We introduce 1) the datasets used for our models, 2) describe our MLP neural network AI model and its corresponding results, 3) describe our LSTM neural network AI model and its corresponding results, and finally 4) summarize our findings and offer suggestions for future research into this area of study. Our hypothesis for the project was that even though there was a boost to U.S. corporate profits after COVID-19 due to re-opening of the economy and through government aid, these gains were completely offset by the much stronger factor of supply chain inefficiencies, thus bringing these profits down.  Our results show that supply chain inefficiencies have begun to abate worldwide and as they do, growth in corporate profits continues to stabilize to pre-pandemic levels.
 
 ## Final Paper Link
-* https://drive.google.com/file/d/1xVh3jx5Xpd20NUmfikj4Yww0KbUAmjqA/view?usp=drive_link
+* https://drive.google.com/drive/u/1/folders/1AoBU4D0qnlACXpJysGFeRO0E33oAVbJg/view?usp=drive_link
 
 ## Final Slide Deck Link
 * https://drive.google.com/file/d/1MTG0m6DI0HHzDoDvyzN-iwCNkUDPh_fu/view?usp=drive_link
